@@ -10,8 +10,8 @@
 	<link href="{{ asset('static/AmazeUI-2.4.2/assets/css/admin.css') }}" rel="stylesheet" type="text/css" />
 	<link href="{{ asset('static/AmazeUI-2.4.2/assets/css/amazeui.css') }}" rel="stylesheet" type="text/css" />
 	<link href="{{ asset('static/basic/css/demo.css') }}" rel="stylesheet" type="text/css" />
-	<link type="text/css" href="{{ asset('static/css//optstyle.css') }}" rel="stylesheet" />
-	<link type="text/css" href="{{ asset('static/css//style.css') }}" rel="stylesheet" />
+	<link type="text/css" href="{{ asset('static/css/optstyle.css') }}" rel="stylesheet" />
+	<link type="text/css" href="{{ asset('static/css/style.css') }}" rel="stylesheet" />
 
 	<script type="text/javascript" src="{{ asset('static/basic/js/jquery-1.7.min.js') }}"></script>
 	<script type="text/javascript" src="{{ asset('static/basic/js/quick_links.js') }}"></script>
