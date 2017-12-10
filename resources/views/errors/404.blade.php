@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0" />
@@ -8,7 +8,7 @@
 <link type="text/css" rel="stylesheet" href="{{ asset('static/404/css/404.css') }}" />
 
 <!--[if IE 6]>
-<script src="js/png.js"></script>
+<script src="{{ asset('static/404/js/png.js') }}"></script>
 <script>DD_belatedPNG.fix('*')</script>
 <![endif]-->
 
