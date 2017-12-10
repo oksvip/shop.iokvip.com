@@ -20,3 +20,4 @@ Route::get('/search', "Index\IndexController@search")->name('search');          
 Route::get('/shopcart', "Index\IndexController@shopcart")->name('shopcart');                // 购物车页
 Route::get('/sort', "Index\IndexController@sort")->name('sort');                            // 分类页
 Route::get('/success', "Index\IndexController@success")->name('success');                   // 付款成功页
+Route::get('/404', "Index\IndexController@error404")->name('404');                          // 404错误页

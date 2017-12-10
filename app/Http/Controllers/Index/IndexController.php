@@ -50,4 +50,9 @@ class IndexController extends BaseIndexController
     {
         return view('index.success');
     }
+
+    public function error404()
+    {
+        return view('errors.404');
+    }
 }
